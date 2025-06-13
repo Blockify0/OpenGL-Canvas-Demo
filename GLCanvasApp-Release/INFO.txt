@@ -1,0 +1,10 @@
+GLCanvasApp - Interactive OpenGL Canvas 
+Built on Fri 06/13/2025 at 23:09:28.67 
+ 
+To run: Double-click GLCanvasApp.exe 
+ 
+Features: 
+- OpenGL rendering with interactive triangle 
+- Click top-left button to toggle control panel 
+- Use slider to rotate triangle 
+- Use checkbox to show/hide triangle 
